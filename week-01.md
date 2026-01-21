@@ -2,8 +2,8 @@
 
 # Week 01 - DevLog
 
-
-
+_**First Day of Class (for me)**
+_
 
 ## Outcomes 
 

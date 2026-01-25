@@ -28,7 +28,7 @@ https://stackoverflow.com/a/50916345/441878
 
 3\. 📚 Read Chapter 01 - A People's History of Electronic Music (2-14) and Chapter 02 - Musical Electricity for Electrophobes (15-up to 38) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
 
-- Your response
+- Pearson's explanation of lightning was the most striking example discussed in these two chapters to me. This is because I have had the phenomenon explained to me many times, but the true nature of lightning and thunder has never really stuck with me. Due to the way he first thoroughly explains static electricity, along with our in class example on Wednesday, the idea of water molecules rubbing together creating static made a lot of sense. Additionally, the explanation of light and sound as a biproduct of the elictrical channel/current created between sky and ground made a lot of sense and de-mystified the phenomenon to me. So far I am really enjoying just reading this book to read it, not even purely as a learning tool.
 
 
 

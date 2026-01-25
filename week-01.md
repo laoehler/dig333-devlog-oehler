@@ -16,7 +16,7 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. Follow the [class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g10e831bd841_0_47#slide=id.g10e831bd841_0_47) to create a functioning circuit on Tinkercad and link to it here.
 
-- Link to your (publicly-accessible) https://tinkercad.com file
+- Link to my basic circuit: [https://tinkercad.com file](https://www.tinkercad.com/things/0to70Q1pBxm/editel?returnTo=%2Fdashboard)
 
 
 

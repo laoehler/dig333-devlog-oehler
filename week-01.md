@@ -22,7 +22,7 @@ https://stackoverflow.com/a/50916345/441878
 
 2\. Share your maths using Ohm's law to find the resistor value for your Tinkercad circuit.
 
-- Your response
+- Resistor value (Ω) = ( (Voltage supply - forward Voltage drop) / forward current) -> Ω = (9 - 2) / 0.2 -> Ω = 350
 
 
 

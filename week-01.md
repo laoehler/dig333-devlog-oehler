@@ -60,7 +60,7 @@ https://stackoverflow.com/a/50916345/441878
 
 8\. Fork this repository into your own Github account and enable Github Pages. Paste the link to the public repo page below (github.com)
 
-- Your response
+- https://github.com/laoehler/dig333-devlog-oehler/tree/main
 
 
 9\. Check the public link (the live github.io URL) to this DevLog and make sure all your content is formatted correctly. Paste the link below.

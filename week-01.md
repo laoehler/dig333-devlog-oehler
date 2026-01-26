@@ -48,7 +48,7 @@ https://stackoverflow.com/a/50916345/441878
 
 6\. The Moog video references ideas also presented in Pearson's "Speaker as microphone" experiment (p.37) explain what a microphone, a speaker, and the human ear have in common? (2-3 sentences) 
 
-- Your response
+- The human ear, a microphone, and a speaker all contain some type of drum or pressure sensing device which in the case of a microphone or human ear moves with pressure changes in the air and then the movement is interpreted into a frequency which represents sound. In the case of a speaker this drum is vibrated at a certain frequency controlled by the voltage running through the speaker and produces pressure changes in the air which causes sound.
 
 
 

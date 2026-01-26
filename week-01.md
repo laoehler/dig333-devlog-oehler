@@ -42,7 +42,7 @@ https://stackoverflow.com/a/50916345/441878
 
 [![Synthesizing with Moog – Lesson 1: Listening](https://img.youtube.com/vi/waN4owHeyaQ/0.jpg)](https://www.youtube.com/watch?v=waN4owHeyaQ)
 
-- Your response
+- Moog invented the first commercially available synthesizer, with multiple modules packaged together. They came up with voltage control in order to change the different parameters of a synthesizer. 
 
 
 

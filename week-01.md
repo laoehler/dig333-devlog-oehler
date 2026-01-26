@@ -65,7 +65,7 @@ https://stackoverflow.com/a/50916345/441878
 
 9\. Check the public link (the live github.io URL) to this DevLog and make sure all your content is formatted correctly. Paste the link below.
 
-- Your response
+- https://github.com/laoehler/dig333-devlog-oehler/blob/main/week-01.md
 
 
 10\. Paste the public link (the live github.io URL) to this finished DevLog into Moodle before (by 8am) the next class.

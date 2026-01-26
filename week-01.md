@@ -34,7 +34,7 @@ https://stackoverflow.com/a/50916345/441878
 
 4\. Explore Ishkur’s Guide to Electronic Music 2.0 https://music.ishkur.com/ referenced by Pearson. Describe the influence of one genre from this guide on your current musical listening habits. `(2-3 sentences)`
 
-- Your response
+- I went down a rabbit hole of trying to consume as much information from this chart as I could. I do not know much about the majority of genres in the chart, but I spent a little time reading about each of them. I spent the bulk of my time tracing the hip hop timeline as that is the mnost mainstream genre included in the chart. It was really interesting to see where some of the artists I listen to fit in on the chart, and especially interesting to find new artists, or rediscover music I remember hearing in my childhood. I will definitely revisit this site going forward when I feel bored of my current songs, and have already sent the link to multiple friends.
 
 
 

@@ -54,7 +54,10 @@ https://stackoverflow.com/a/50916345/441878
 
 7\. 🎬 Explore cinematic scores and other works created by [Wendy Carlos](https://www.google.com/search?q=wendy+carlos+filmography) using a Moog. Paste a link to an online example and describe what you like about the composition, performance, connection to themes in the film, etc. (2-3 sentences) 
 
-- Your response
+- I watched the opening scene from The Shining. I have not seen this movie, but the combination of the low frequency resonant tones with the eerie shrieking vocals create a haunting image in my mind on its own. The camera-work makes it feel even creepier, the overhead following makes it seem like something or someone is chasing the car through the air. Even though I haven't seen The Shining I know it is a horror movie, and that it is supernatural to some extent, and watching this scene made me feel as though I was watching something haunting the car, and really made me want to continue watching.
+
+[![The Shining opening scene:](https://img.youtube.com/vi/LjLip2FZLuA/0.jpg)](https://www.youtube.com/watch?v=LjLip2FZLuA)
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kiV3J_e977Q?si=QViadi5t0g_l8zr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

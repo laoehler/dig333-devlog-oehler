@@ -58,14 +58,6 @@ https://stackoverflow.com/a/50916345/441878
 
 [![The Shining opening scene:](https://img.youtube.com/vi/LjLip2FZLuA/0.jpg)](https://www.youtube.com/watch?v=LjLip2FZLuA)
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiV3J_e977Q?si=QViadi5t0g_l8zr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<small>Opening scene from The Shining. Music by Wendy Carlos</small>
-
-
-
 8\. Fork this repository into your own Github account and enable Github Pages. Paste the link to the public repo page below (github.com)
 
 - Your response

@@ -23,7 +23,7 @@ https://stackoverflow.com/a/50916345/441878
 
 2\. Create a three-LED circuit on Tinkercard and measure Voltage Drop and amps using their multimeters ([class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g1f89d7c4b1c_0_53#slide=id.g1f89d7c4b1c_0_53)). 
 
-- Link to your (publicly-accessible) https://tinkercad.com file
+- Link to my (publicly-accessible) tinkercad circuit: https://www.tinkercad.com/things/ckd3huIFV0R-week-2-3-led-circuit?sharecode=1W1t1pla4IkmM3zewDZ6c9kuSitNnl4vi2KX6CqbpAY
 
 
 

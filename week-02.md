@@ -45,12 +45,12 @@ https://stackoverflow.com/a/50916345/441878
 
 6\. 📚 Read Chapter 03 - The Hello World Oscillator (46-59) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). In your own words, why should you be careful with capacitors?
 
-- Your response
+- Capacitors, like buckets, fill up and then dump out their contents. Unlike water, the electricity that fills up capacitors may take many days to "evaporate," so if you are handling a capacitor which has filled up and not yet dumped out its contents, it may dump out on you, giving you a shock.
 
 
 
 7\. What is the difference between an analog and digital component?
-
+A digital component is an electronic device, meaning it uses discrete electronic signals to change the output it creates, whereas an analog component is powered by electricity and its output could change based on the range of voltage running through it.
 
 
 8\. [👉Activity: Analyze square waveforms with an oscilloscope](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g3b8d920f8b7_0_49#slide=id.g3b8d920f8b7_0_49). On the Snap-on Waveform demo board, which pot controls variable voltage (duty cycle) and which controls variable frequency (PWM slides)? What is a common use of each? Post a photo of your testing.

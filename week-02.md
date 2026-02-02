@@ -39,8 +39,7 @@ https://stackoverflow.com/a/50916345/441878
 
 5\. Create a groundbreaking musical instrument using Pearson's advice in the conclusion of the chapter to customize your circuit to play sound in a new way.
 
-- Add video documentation of a performance of your musical instrument.
-
+- Will be covered in week3 log
 
 
 6\. 📚 Read Chapter 03 - The Hello World Oscillator (46-59) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). In your own words, why should you be careful with capacitors?
@@ -56,7 +55,7 @@ A digital component is an electronic device, meaning it uses discrete electronic
 
 8\. [👉Activity: Analyze square waveforms with an oscilloscope](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g3b8d920f8b7_0_49#slide=id.g3b8d920f8b7_0_49). On the Snap-on Waveform demo board, which pot controls variable voltage (duty cycle) and which controls variable frequency (PWM slides)? What is a common use of each? Post a photo of your testing.
 
-- Your response
+-  Will be covered in week3 log
 
 
 
@@ -79,7 +78,9 @@ A digital component is an electronic device, meaning it uses discrete electronic
 
 > The opening synth keyboard melody in Com Truise [Galactic Melt](https://www.youtube.com/watch?v=iOhpjcvtyVE&list=PLhpnnpt3tw-TQ102FLVMJabccj51wEeUH) uses a very short attack, making it punchy and alive. The base synth (`1:30`) uses a slower attack, adding to its weight and helping to ground the tempo. —Owen Mundy
 
-- Your response
+[![New Gold - Gorillaz](https://img.youtube.com/vi/qJa-VFwPpYA/0.jpg)](https://www.youtube.com/watch?v=qJa-VFwPpYA)
+
+At (`0:00`) to (`0:18`) there is a repetitive repeating rythym where every 3rd note has a faster attack, placing emphasis on it and making the intro more interesting. It also sounds like the tempo is changing, and the way that this 3rd note jumps out really combines well with that. 
 
 
 

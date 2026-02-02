@@ -17,7 +17,7 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. Create an LED circuit with a ([class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g1f89d7c4b1c_0_53#slide=id.g1f89d7c4b1c_0_53)). Record the voltage drop from each step and amps used in the circuit: 
 
-- Your response
+- Link to my experiments with voltage drop: https://docs.google.com/presentation/d/13VoF1RzzqhLXZIZo1hZ2Xnu5IF8l4nJ6Qw-JHcZ-py4/edit?usp=sharing
 
 
 

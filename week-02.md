@@ -65,7 +65,7 @@ A digital component is an electronic device, meaning it uses discrete electronic
 
 - The volume of the sound: amplitude 
 - The musical note played: frequency
-- The sonic signature of a sound distinguishing a note played on one instrument from the same note played on a different instrument: waveform
+- The sonic signature of a sound distinguishing a note played on one instrument from the same note played on a different instrument: waveform/timbre
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gH4FNmoN7Z0?si=the6122ZQvX1Yjif" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

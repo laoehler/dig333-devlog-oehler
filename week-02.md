@@ -50,7 +50,7 @@ https://stackoverflow.com/a/50916345/441878
 
 
 7\. What is the difference between an analog and digital component?
-A digital component is an electronic device, meaning it uses discrete electronic signals to change the output it creates, whereas an analog component is powered by electricity and its output could change based on the range of voltage running through it.
+\ A digital component is an electronic device, meaning it uses discrete electronic signals to change the output it creates, whereas an analog component is powered by electricity and its output could change based on the range of voltage running through it.
 
 
 8\. [👉Activity: Analyze square waveforms with an oscilloscope](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g3b8d920f8b7_0_49#slide=id.g3b8d920f8b7_0_49). On the Snap-on Waveform demo board, which pot controls variable voltage (duty cycle) and which controls variable frequency (PWM slides)? What is a common use of each? Post a photo of your testing.

@@ -29,7 +29,7 @@ https://stackoverflow.com/a/50916345/441878
 
 3\. 📚 Read Chapter 02 - Musical Electricity for Electrophobes (39-45) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
 
-- Your response
+- I really liked his explanation/comparison of electrical circuits to Rube Goldberg machines. This spoke to me because it helped take away some of the mystique/complexity I associate with them and helped me relate them to my experience with electricity as a computer science major (computers all based off of signals of on/off or 1/0 and the combinations of them). The amber example was also especially striking since I did not know the origin of the world electron. It seems almost funny that our word for this unseen phenomenon comes from the word for something as simple as amber, and a thousand year old party trick.
 
 
 

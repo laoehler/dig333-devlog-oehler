@@ -63,9 +63,9 @@ A digital component is an electronic device, meaning it uses discrete electronic
 
 9\. 🎬 Watch [Synthesizing with Moog - Lesson 2: Dynamics](https://www.youtube.com/watch?v=gH4FNmoN7Z0) (15:33). Which tells us that every musical sound has three defining characteristics. What are they?
 
-- The volume of the sound: ______________ 
-- The musical note played: ______________
-- The sonic signature of a sound distinguishing a note played on one instrument from the same note played on a different instrument: ______________
+- The volume of the sound: amplitude 
+- The musical note played: frequency
+- The sonic signature of a sound distinguishing a note played on one instrument from the same note played on a different instrument: waveform
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gH4FNmoN7Z0?si=the6122ZQvX1Yjif" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

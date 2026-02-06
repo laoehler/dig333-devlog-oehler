@@ -88,17 +88,17 @@ https://www.youtube.com/watch?v=c3udLCvoCC0
 
 8\. [👉Activity: Analyze square waveforms with an oscilloscope](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g3b8d920f8b7_0_49#slide=id.g3b8d920f8b7_0_49). On the Snap-on Waveform demo board, which pot controls variable voltage (duty cycle) and which controls variable frequency (PWM slides)? What is a common use of each? 
 
-- Your response
+- I messed around with the oscilliscope and snap on wave form demo board but could not generate the wave as demonstrated in the slide for some reason.
+![IMG_1784](https://github.com/user-attachments/assets/358edb3e-672e-4736-85ae-91afee378182)
 
+- I got some success when attaching the oscilliscope to my oscillating circuit.
 
-
+https://github.com/user-attachments/assets/821378b1-aba7-44ad-9b4d-b0570fa27e84
 
 
 9\. Post a photo of your Snapon board testing.
 
-- Your response
-
-
+- See response above.
 
 10\. List one thing you learned in the [Learning Synth Playground](https://learningsynths.ableton.com/en/playground) by Ableton 
 

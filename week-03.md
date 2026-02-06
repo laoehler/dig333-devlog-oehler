@@ -17,7 +17,13 @@ https://stackoverflow.com/a/50916345/441878
 
 4. Follow the Piezomania (39) and Sound through your skull (42) experiments.
 
-   Sound through your skull followed in class. Piezomania 
+   Sound through your skull followed in class.
+   
+   Piezomania may have been executed incorrectly:
+
+https://github.com/user-attachments/assets/7a1c63d4-f5df-4bf1-91aa-88478f0f6649
+
+
 
 6. Create a groundbreaking musical instrument using Pearson's advice in the conclusion of the chapter to customize your circuit to play sound in a new way.
 

@@ -17,7 +17,7 @@ https://stackoverflow.com/a/50916345/441878
 
 4. Follow the Piezomania (39) and Sound through your skull (42) experiments.
 
-   
+   Sound through your skull followed in class. Piezomania 
 
 6. Create a groundbreaking musical instrument using Pearson's advice in the conclusion of the chapter to customize your circuit to play sound in a new way.
 
@@ -34,11 +34,19 @@ https://stackoverflow.com/a/50916345/441878
 - This is a photo of my square wave oscillator after adding in an amplifier so that it is able to power an electric motor.
 
 
-
 3\. Create at least one variation on your oscillator inspired by four variations on the circuit. Share a video of your your device.
 
-
 https://github.com/user-attachments/assets/de2b077f-2a0e-4a75-b2f6-c4255d2992b8
+
+- The video above shows the results of hooking up an LDR to the oscillator (I also have an amplifier attached).
+
+https://github.com/user-attachments/assets/f5f50e8e-0165-4cd2-8877-8e30c3d5328f
+
+- The second video shows the results of hooking up the same circuit to an amplifier minus the LED and LDR. I swapped out a pontentiometer for the LDR to control the oscillation better.
+
+https://github.com/user-attachments/assets/b41471b1-8b1d-483d-9e90-5f3e42124bbd
+
+- The third video shows the same results I found in the first video but using a speaker as the output instead of an LED.
 
 
 - Video shows my oscillator hooked up to an amplifier and an LDR with an LED as output to demonstrate how the LDR changes the oscillation created by the capacitor and IC.

@@ -101,7 +101,7 @@ https://github.com/user-attachments/assets/821378b1-aba7-44ad-9b4d-b0570fa27e84
 
 10\. List one thing you learned in the [Learning Synth Playground](https://learningsynths.ableton.com/en/playground) by Ableton 
 
-- Your response
+- Setting the LFO to a high frequency will lead to a high rate of oscillation in the sound wave that is produced, making a very distorted digital sound. Kind of sounds like the noise my circuit was making in class.
 
 
 

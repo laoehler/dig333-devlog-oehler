@@ -67,7 +67,7 @@ https://github.com/user-attachments/assets/b41471b1-8b1d-483d-9e90-5f3e42124bbd
 
 5\. Once you start listening you'll hear it everywhere. Share a link to a song that uses a synthesizer below.
 
-- Your response
+- [![Stereo Love](https://img.youtube.com/vi/p-Z3YrHJ1sU/0.jpg)](https://youtu.be/p-Z3YrHJ1sU)
 
 
 

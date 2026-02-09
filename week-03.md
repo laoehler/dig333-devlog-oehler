@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/b41471b1-8b1d-483d-9e90-5f3e42124bbd
 6\. Watch Synthesizer Basics: Amplitude, Oscillators, Timbre and describe
 https://www.youtube.com/watch?v=c3udLCvoCC0 
 
-- Your response
+- I am familiar with most of the concepts described in this video from my experience in the music physics class I took but was a little confused by the LFO section. If they emit a frequency we can't hear, how are they influencing the sound that is produced? I'm guessing that this is because the frequency they emit still affects the frequencies emitted that we can hear?
 
 
 

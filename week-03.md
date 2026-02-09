@@ -27,6 +27,10 @@ https://github.com/user-attachments/assets/7a1c63d4-f5df-4bf1-91aa-88478f0f6649
 6. Create a groundbreaking musical instrument using Pearson's advice in the conclusion of the chapter to customize your circuit to play sound in a new way.
 
 
+https://github.com/user-attachments/assets/3114febf-2d85-4c63-9a45-4e6b4ea63d14
+
+
+
 1\. 📚 Read Chapter 03 - The Hello World Oscillator (39-45) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
 
 - Pearson's explanation of bread boards was very interesting to me, in particular how they got their name. I would be interested to see one of the original breadboards, and how they functioned. In my imagination they seem almost more useful than our bread boards because they would give easy access to the jumpers, so that the connections on the front, and those in the back could be easily modified. As a computer science major I also really liked his explanation of electronical and electronic devices, since people often overcomplicate/misunderstand the way that computers or other digital devices work when in reality they are just a complex intertwinement of simple discrete signals.

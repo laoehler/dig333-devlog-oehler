@@ -44,7 +44,7 @@ p.20–25 - Read and follow tutorial to install Thonny and run the "Hello, World
 
 4\. What is the difference between a microcontroller and a regular computer? (Chapter 1)
 
-- Your response
+- Microcontrollers are designed to be operate as a level within an existing system whereas a normal computer is the whole system. Microcontrollers can be attached to things via pins and don't have a user interface.
 
 
 

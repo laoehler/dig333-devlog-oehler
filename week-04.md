@@ -61,20 +61,47 @@ p.20–25 - Read and follow tutorial to install Thonny and run the "Hello, World
 6\. 📚Read Chapter 2: "Challenge: New Message" (26) - You can display programming code in a markdown file using three backticks, a new line, and then three more backticks on the following line. 
 
 ```python
-Replace this line with code from "Challenge: New Message" (26)
+print("hello world")
 ```
 
 
 7\. Chapter 2: "Challenge: Loop the Loop" (26)
 
 ```python
-Replace this line with code from "Challenge: Loop the Loop" (29)
+for i in range(10):
+  print("first loop, iteration: ", i)
+  for j in range(10):
+    print("second loop, iteration", j)
 ```
 
 8\. Chapter 2: "Challenge: Add More Questions" (26)
 
 ```python
-Replace this line with code from "Challenge: Add More Questions" (32)
+from machine import Pin
+import utime
+
+led = Pin(15, Pin.OUT)
+x = 0
+
+user = input("Enter your username: ")
+print("Hello, ", user)
+
+while(True):
+    x = input("Enter S to start: ")
+    if(x == "S"):
+        break
+    else:
+        continue
+    
+while(x == "S" or x == "C"):
+    for i in range(1000):
+        led.value(1)
+        utime.sleep(i/15000)
+        print(i)
+        led.value(0)
+        utime.sleep(i/15000)
+        
+    x = input("Enter C or S to continue, or any other key to quit: ")
 ```
 
 

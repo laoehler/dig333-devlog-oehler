@@ -118,8 +118,9 @@ There are six ground pins.
 
 10\. Post sketches for your musical instrument and a parts list.
 
+I have a long way to go as far as planning goes for this instrument, but it would be something I am excited about getting into.
 
-
+[lASBRmens.pdf](https://github.com/user-attachments/files/25347331/lASBRmens.pdf)
 
 
 

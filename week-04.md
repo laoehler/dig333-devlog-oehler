@@ -16,7 +16,7 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. 📚Read Philip K. Dick Pay for the Printer (1956) and The Preserving Machine (1953). Write a reflection below:
 
-- Your response
+- I'm not exactly sure what reading this is referring to but will figure it out and get it done on the devlog for next week.
 
 
 

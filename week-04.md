@@ -84,6 +84,7 @@ Replace this line with code from "Challenge: Add More Questions" (32)
 
 9\.  📚Read Chapter 3 (34–43) Physical Computing. How many Ground pins are on the Pico?
 
+There are six ground pins.
 
 
 

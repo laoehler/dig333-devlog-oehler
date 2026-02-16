@@ -23,9 +23,9 @@ https://stackoverflow.com/a/50916345/441878
 
 2\. Connect a concept from [Synthesizing with Moog | Lesson 4: Resonance](https://www.youtube.com/watch?v=6spVzRqOsVw) to an aspect of the interface in the [Learning Synth Playground](https://learningsynths.ableton.com/en/playground) by Ableton 
 
-- Your response
+- I enjoyed messing arround with the low pass filter. It really makes a difference in the sound you hear. Next time I get in my car I'm gonna try and mess around with the equalizer to try and isolate the vocals on some songs as much as possible taking advantage of the notch and bandpass filters it uses.
 
-
+[Ableton-Synth-Recording-2026-02-15-22-13-17.wav](https://github.com/user-attachments/files/25330588/Ableton-Synth-Recording-2026-02-15-22-13-17.wav)
 
 
 

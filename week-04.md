@@ -53,7 +53,7 @@ p.20–25 - Read and follow tutorial to install Thonny and run the "Hello, World
 
 5\. 📚Read Chapter 2 (20–33) Programming with MicroPython. Summarize steps to program the Pico from your computer.
 
-- Your response
+- Plug in the Pico W using the micro usb to usbc connector. Download the uf2 firmware file for micropython. Install thonny. Program the input output pins in micropython using the thonny shell.
 
 
 

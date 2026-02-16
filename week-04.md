@@ -36,7 +36,7 @@ https://stackoverflow.com/a/50916345/441878
 
 p.20–25 - Read and follow tutorial to install Thonny and run the "Hello, World!" Add documentation below to show you can save and run python code on the Pico.
 
-- Your response
+- Done in class.
 
 
 

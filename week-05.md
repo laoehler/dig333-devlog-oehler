@@ -33,9 +33,9 @@ https://stackoverflow.com/a/50916345/441878
 
 4\. 📚Read Brian Merchant [Everything That’s Inside Your iPhone](https://www.vice.com/en/article/everything-thats-inside-your-iphone/) Motherboard (2017). ✏️ Write a reflection below:
 
-- Your response
+- I really liked the idea to break down an phone to analyze the raw materials in it, I think this is something that most people do not think about when they use their phones. I would be interested to see the results of this test on a newer iPhone to see if there has been significant change in the materials used. What I thought was more interesting though, was the focus of Cerro Rico/Potosí in the article. In the spring of 2025 I took a history class on Latin America through the 19th century and Potosí was a major focus of that course. While I was learning about the past of the mine I did not pause to think about the contemporary conditons there, but it is amazing to me that the mountain is still active and now instead of providing silver for the Spanish empire, it provides a different material (tin) for a new type of empire, and still "eats men."
 
-
+  
 5\. 📚Read Chapter 7 (80-91) Physical Computing with Pico. Post documentation of your Burglar Alarm.
 
 

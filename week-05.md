@@ -57,6 +57,16 @@ Amplified Dulcimer
 
 https://github.com/user-attachments/assets/a946ff6c-d70f-431d-824e-0d627369c631
 
+Un-Amplified Dulcimer
+
+https://github.com/user-attachments/assets/2deeb9a0-b8ce-4e6d-ba1e-ad490eed8daf
+
+Testing Different Piezo Placement
+
+https://github.com/user-attachments/assets/f75dea5e-36e6-49c0-be17-e648933829d9
+
+
+
 10\. Post documentation of your progress on the Musical Instrument
 
 

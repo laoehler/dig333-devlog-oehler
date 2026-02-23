@@ -48,12 +48,14 @@ https://github.com/user-attachments/assets/94b3e913-b054-4263-a47a-13feba32e304
 
 7\. Post documentation showing audio from your Pico
 
-
-8\. Post documentation showing audio from your Pico
+![IMG_1846](https://github.com/user-attachments/assets/d67cc75a-854b-4fbb-a0b4-cce164a61a1f)
 
 
 9\. Post documentation of your progress on the Musical Instrument
 
+Amplified Dulcimer
+
+https://github.com/user-attachments/assets/a946ff6c-d70f-431d-824e-0d627369c631
 
 10\. Post documentation of your progress on the Musical Instrument
 

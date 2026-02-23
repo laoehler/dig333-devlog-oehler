@@ -24,6 +24,9 @@ https://stackoverflow.com/a/50916345/441878
 1\. 📚Read Chapter 5 (58-67) Physical Computing with Pico. Post documentation of your Traffic light controller
 
 
+https://github.com/user-attachments/assets/94b3e913-b054-4263-a47a-13feba32e304
+
+
 
 2\. 📚Read Chapter 6 (68-79) Physical Computing with Pico. Post documentation of your Reaction Game
 

@@ -53,13 +53,12 @@ python hello.py -> Run the file hello.py using python.
 
 5\. Raspberry Pi OS is based on what Linux distribution? What does that even mean? ✏️
 
-- Your response
+- Raspberry Pi OS is based on Debian. This means that the OS inherits the software library that runs on Debian including the package manager.
 
 
 6\. What does it mean to "Flash" your SD Card? ✏️
 
-- Your response
-
+- This is what we did in class before spring break when we wrote the Raspberry Pi Full OS to the SD cards. Basically it is just setting up the SD card so the system can run.
 
 7\. What does it mean if you see a red light and a flashing green light on your powered Raspberry Pi? ✏️
 
@@ -68,7 +67,7 @@ python hello.py -> Run the file hello.py using python.
 
 8\. What does a package manager do? ✏️
 
-- Your response
+- A package manager automatically installs or removes programs from your computer for you.
 
 
 9\. Describe how you might use Git with a Raspberry Pi? ✏️
@@ -79,7 +78,7 @@ python hello.py -> Run the file hello.py using python.
 10\. What are two things your personal computer and a linux OS like Raspberry Pi have in common?
 
 1. They can be operated with a mouse and visual interface.
-2. 
+2. They both have at least 1GB of memory.
 
 
 

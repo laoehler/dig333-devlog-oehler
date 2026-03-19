@@ -22,7 +22,7 @@ omundy/learn-computing/command-line
 Basic Terminal Usage](https://www.youtube.com/watch?v=jDINUSK7rXE). Describe in your own words what each of the following commands will do ✏️ 
 
 ```python
-cd ~/
+cd -> Change directory followed by filename will switch the user to operating on the filename.
 mkdir test && cd test
 touch hello.py
 echo "print(Hello World)" > hello.py

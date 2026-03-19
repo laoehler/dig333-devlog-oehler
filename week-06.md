@@ -1,5 +1,3 @@
-[<](README.md)
-
 # DevLog 06
 
 
@@ -23,30 +21,34 @@ Basic Terminal Usage](https://www.youtube.com/watch?v=jDINUSK7rXE). Describe in 
 
 ```python
 cd -> Change directory followed by filename will switch the user to operating on the filename.
-mkdir test && cd test
-touch hello.py
-echo "print(Hello World)" > hello.py
-python hello.py
+mkdir test && cd test -> Create a new folder called test and open it.
+touch hello.py -> Create a new python file called hello.
+echo "print(Hello World)" > hello.py -> Write print(Hello World) to the file hello.py
+python hello.py -> Run the file hello.py using python.
 ```
 
-- Your response
+- Change directory followed by filename will switch the user to operating on the filename.
+- Create a new folder called test and open it.
+- Create a new python file called hello.
+- Write print(Hello World) to the file hello.py
+- Run the file hello.py using python.
 
 
 2\. Share 3 differences between the Raspberry Pi and Raspberry Pi Pico ✏️
 
-1. ?
-2. ?
-3. ?
+1. Raspberry Pi has HDMI port and is a basic desktop computer so its not a purely headless system unlike the Pi Pico.
+2. Raspberry Pi needs to be plugged into a power outlet more powerful than a laptop to function correctly, whereas the Pi Pico can be powered by a laptop.
+3. Raspberry Pi has a 3.5mm audio output jack and the Pico does not.
 
 
 3\. Why shouldn't you power your Raspberry Pi from your computer USB? ✏️
 
-- Your response
+- The Raspberry Pi needs about 5W of power at times when it is running and that less than our computers output consistently.
 
 
 4\. Of the ways to destroy a Raspberry Pi, which are you most likely to do? How will you keep from doing it? ✏️
 
-- Your response
+- Shut down the Raspberry Pi without shutting down. I will use __sudo shutdown -h now__
 
 
 5\. Raspberry Pi OS is based on what Linux distribution? What does that even mean? ✏️
@@ -61,7 +63,7 @@ python hello.py
 
 7\. What does it mean if you see a red light and a flashing green light on your powered Raspberry Pi? ✏️
 
-- Your response
+- This means that the Pi is connected to power and that it is active.
 
 
 8\. What does a package manager do? ✏️
@@ -76,8 +78,8 @@ python hello.py
 
 10\. What are two things your personal computer and a linux OS like Raspberry Pi have in common?
 
-1. ?
-2. ?
+1. They can be operated with a mouse and visual interface.
+2. 
 
 
 

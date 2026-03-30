@@ -66,7 +66,7 @@ https://github.com/user-attachments/assets/edaff012-baaf-47ef-9ef3-d2112d6652b7
 
 1. Analog
 2. Analog
-3. Digital
+3. Digital -> Button
 4. Digital
 
 

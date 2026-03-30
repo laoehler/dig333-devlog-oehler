@@ -65,10 +65,10 @@ https://github.com/user-attachments/assets/3a8c3f36-2c04-4a68-ad61-944e25c76ffb
 
 8\. Explore sensors in class. List two analogs and two digital sensors ✏️ 
 
-1. Analog
-2. Analog
+1. Analog -> Piezo element
+2. Analog -> Photoresistor light sensor
 3. Digital -> Button
-4. Digital
+4. Digital -> Digital Microphone
 
 
 

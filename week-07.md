@@ -53,13 +53,11 @@ https://github.com/user-attachments/assets/bac81d55-caca-4bb9-8ffc-4a6e3deeb371
 
 6\. Fade an LED using PWM from your Pi ✏️ 
 
-
+https://github.com/user-attachments/assets/edaff012-baaf-47ef-9ef3-d2112d6652b7
 
 
 7\. Read values from a photoresistor with your Pi ✏️ 
 
-
-https://github.com/user-attachments/assets/edaff012-baaf-47ef-9ef3-d2112d6652b7
 
 
 8\. Explore sensors in class. List two analogs and two digital sensors ✏️ 

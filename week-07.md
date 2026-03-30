@@ -44,7 +44,9 @@ I cloned [https://github.com/omundy/dig333-raspberry-pi] to the Pi.
 
 5\. Connect to your Pi over SFTP and upload / download files ✏️
 
-- Post a screenshot from your FTP program here
+- Screenshot from cyberduck:
+  
+<img width="1459" height="499" alt="Screenshot 2026-03-30 at 12 48 20" src="https://github.com/user-attachments/assets/4328ebbc-de62-4bda-b3e9-c813bc07f43a" />
 
 
 

@@ -20,12 +20,16 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. Turn `on` and `off` an LED using the command line, GPIO and python. ✏️
 
-- Post video documentation here
+- Video Documentation:
+
+https://github.com/user-attachments/assets/e8c131fd-50c2-40e3-836a-f796725e09c6
 
 
 2\. Clone a repo to your Raspberry Pi over SSH ✏️ 
 
-- Link to the repo you cloned: 
+- Link to the repo you cloned:
+
+I cloned [https://github.com/omundy/dig333-raspberry-pi] to the Pi.
 
 
 3\. Run a python script in the repository

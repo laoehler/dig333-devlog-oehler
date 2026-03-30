@@ -39,7 +39,8 @@ I cloned [https://github.com/omundy/dig333-raspberry-pi] to the Pi.
 
 4\. Read a button (connected to a pulldown resistor) with your RPi and use the value to control an LED. ✏️
 
-- Post video documentation here
+
+https://github.com/user-attachments/assets/bac81d55-caca-4bb9-8ffc-4a6e3deeb371
 
 
 5\. Connect to your Pi over SFTP and upload / download files ✏️

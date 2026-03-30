@@ -58,6 +58,9 @@ https://github.com/user-attachments/assets/edaff012-baaf-47ef-9ef3-d2112d6652b7
 
 7\. Read values from a photoresistor with your Pi ✏️ 
 
+- Video of photoresistor measurements being printed.
+
+https://github.com/user-attachments/assets/3a8c3f36-2c04-4a68-ad61-944e25c76ffb
 
 
 8\. Explore sensors in class. List two analogs and two digital sensors ✏️ 

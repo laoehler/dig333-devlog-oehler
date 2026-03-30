@@ -79,7 +79,7 @@ https://github.com/user-attachments/assets/3a8c3f36-2c04-4a68-ad61-944e25c76ffb
 
 10\. Link to your final project pitch ✏️ 
 
-- Your response
+- [Your response](https://docs.google.com/presentation/d/1rL33ubola7yQhvPi59CswpjpzGjcYx4RbCWUW8Ouv9A/edit?slide=id.g3d3529c5267_0_117#slide=id.g3d3529c5267_0_117)
 
 
 
